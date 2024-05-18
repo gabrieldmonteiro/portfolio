@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Github",      
+      "url": "https://github.com/gabrieldmonteiro",
+      "image": "https://raw.githubusercontent.com/gabrieldmonteiro/portfolio/main/src/img/github.png"
+    },  
+    {
+      "id": 2,
+      "name": "LinkedIn",      
+      "url": "https://www.linkedin.com/in/gabrieldmonteiro/",
+      "image": "https://raw.githubusercontent.com/gabrieldmonteiro/portfolio/main/src/img/linkedin.png"
+    },
+    {
+      "id": 3,
+      "name": "Email",      
+      "url": "mailto:gabrieldmonteiro@live.com",
+      "image": "https://raw.githubusercontent.com/gabrieldmonteiro/portfolio/main/src/img/email.png"
+    },
+    {
+      "id": 4,
+      "name": "Resume",      
+      "url": "PDF",
+      "image": "https://raw.githubusercontent.com/gabrieldmonteiro/portfolio/main/src/img/resume.png"
+    }
+]
