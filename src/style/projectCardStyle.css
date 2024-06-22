@@ -21,10 +21,10 @@
 }
 
 .card-link-div {
-    height: 5%;
-    float: center;
-    bottom: 0;
-    margin-bottom: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5%;
 }
 
 .project-description {
@@ -40,4 +40,9 @@
 .main-project-div {
     width: 80%;
     height: 80%;
+}
+
+.project-icons{
+    width: 32px;
+    height: 32px;
 }

@@ -23,6 +23,7 @@ function Projects() {
                 description={project.description}
                 image={project.image}
                 url={project.url}
+                url_gh = {project.url_gh}
               />
             ))}
           </div>
