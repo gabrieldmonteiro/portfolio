@@ -17,8 +17,8 @@ const ProjectCard = (props) => {
         {props.description}
       </div>      
       <div className="card-link-div">        
-        {props.url && (<a href={props.url} className="card-url"><img className="project-icons" src={playIcon} alt="app"></img></a>)}
-        {props.url_gh && (<a href={props.url_gh} className="card-url"><img className="project-icons" src={githubIcon} alt="github"></img></a>)}
+        {props.url && (<a href={props.url} className="card-url"><img className="project-icons" src={playIcon} alt="app" target="_blank"></img></a>)}
+        {props.url_gh && (<a href={props.url_gh} className="card-url"><img className="project-icons" src={githubIcon} alt="github" target="_blank"></img></a>)}
       </div>
     </div>
     </div>
